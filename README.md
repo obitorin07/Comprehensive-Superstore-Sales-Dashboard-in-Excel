@@ -33,3 +33,7 @@ Developed an interactive and insightful dashboard using Excel to analyze superst
 ## Outcome
 
 Provided actionable insights into sales performance and trends, enhancing data analysis and visualization skills.
+
+## Dashboard:-
+![super_store_sales png ](https://github.com/user-attachments/assets/35461b74-d24d-4910-9ebd-0d15ec0e3892)
+
